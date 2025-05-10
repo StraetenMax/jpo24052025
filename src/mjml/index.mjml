@@ -24,6 +24,7 @@
       <mj-class name="T13-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="700"/>
       <mj-class name="T13-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="400"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
+      <mj-button border="2px solid #C21718" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#C21718"></mj-button>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
       <mj-class name="cB" color="#ffffff"/>
@@ -89,7 +90,7 @@
            <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Bourse Ecosup</span>,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation initiale ou continue. Financement possible grâce à la mobilisation du CPF ou autres organismes extérieurs.</mj-text>
-        <mj-button align="center" padding-top="15px" border="2px solid #C21718" border-radius="5px" background-color="transparent" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/mise-a-niveau-2">
+        <mj-button padding-top="15px" target="_blank" href="https://ecosup-hotellerie.fr/mise-a-niveau-2">
            En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche hôtellerie rouge"/></mj-button>
       </mj-column>
     </mj-section>
@@ -109,7 +110,7 @@
            <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Diplôme reconnue par l'État</span>,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button align="center" padding-top="15px" border="2px solid #C21718" border-radius="5px" background-color="transparent" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/bts-management-hotellerie-restauration-apprentissage">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche hôtellerie rouge"/></mj-button>
+        <mj-button padding-top="15px" target="_blank" href="https://ecosup-hotellerie.fr/bts-management-hotellerie-restauration-apprentissage">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche hôtellerie rouge"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
@@ -127,7 +128,7 @@
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Travel Week</span>, semaine immersive en mobilité internationale,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button align="center" padding-top="15px" border="2px solid #C21718" border-radius="5px" background-color="transparent" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/bachelor-charge-de-gestion-commerciale-en-hotellerie">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche hôtellerie rouge"/></mj-button>
+        <mj-button padding-top="15px" target="_blank" href="https://ecosup-hotellerie.fr/bachelor-charge-de-gestion-commerciale-en-hotellerie">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche hôtellerie rouge"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
@@ -146,7 +147,7 @@
            <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Double certification internationale</span>,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button align="center" padding-top="15px" border="2px solid #C21718" border-radius="5px" background-color="transparent" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/mastere-manager-organisations-hotellerie">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche Hôtellerie rouge"/></mj-button>
+        <mj-button padding-top="15px" target="_blank" href="https://ecosup-hotellerie.fr/mastere-manager-organisations-hotellerie">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche Hôtellerie rouge"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#e6e6e6" padding="20px">
