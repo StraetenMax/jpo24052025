@@ -46,23 +46,25 @@
         <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/CvXDTv5/logo-Hotellerie-Blanc.png" alt="logo Ecosup Hôtellerie"/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ecebf3" padding="0">
-      <mj-column>
-        <mj-image padding="0" width="600px" src="https://i.ibb.co/TVhdB4S/02-Etudiant.jpg" alt="étudiants enthousiastes pour le campus d'Ecosup"/>
-        <mj-image padding="0" width="600px" src="https://i.ibb.co/KBTM6bs/jpo26042025-Affiche.png" alt="affiche de la jpo du samedi 26 avril 2025"/>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="66.666666%">
+        <mj-image padding="0" width="480px" src="https://placehold.co/400x200" alt="étudiants enthousiastes pour le campus d'Ecosup"/>
+        <mj-text padding="10px 20px" mj-class="T16-400 cT0">Bonjour <span style="font-weight:700;color:#1a1a1a;">{{ contact.PRENOM }}</span>, </mj-text>
+        <mj-text padding="10px 20px" mj-class="T16-400 cT0">Vous êtes intéressé(e) par les métiers de l'hôtellerie et de la restauration. Plongez dans une expérience unique avec une formation diplômante et qualifiante qui boostera votre avenir professionnel&nbsp;!</mj-text>
+        <mj-text padding="2px 20px" mj-class="T16-400 cT0">Lors de cet événement, vous aurez l'opportunité de : </mj-text>
+        <mj-text padding="2px 20px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Explorer</span> notre campus moderne et <span style="font-weight:700;color:#1a1a1a;">découvrir</span> des infrastructures à la pointe,</mj-text>
+        <mj-text padding="2px 20px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Échanger</span> avec nos enseignants passionnés et notre équipe pédagogique,</mj-text>
+        <mj-text padding="2px 20px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Assister</span> à des présentations captivantes sur nos différents programmes de formation,</mj-text>
+        <mj-text padding="2px 20px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Poser</span> toutes vos questions sur les admissions, le parcours, ou encore la vie étudiante,</mj-text>
+        <mj-text padding="2px 20px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Discuter</span> directement avec nos étudiants pour connaître leur ressenti et leurs expériences.</mj-text>
+        <mj-text padding="10px 20px" mj-class="T16-400 cT0">Ce sera l'occasion parfaite pour donner un véritable coup d'accélérateur à votre carrière. Parce que vos ambitions méritent les meilleures opportunités. Un rendez-vous à ne pas manquer&nbsp;!</mj-text>
+      </mj-column>
+      <mj-column width="33.333333%">
+        <mj-image padding="0" width="600px" src="https://placehold.co/200x360" alt="affiche de la jpo du samedi 26 avril 2025"/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="20px"> 
-      <mj-column width="88%">
-        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Bonjour <span style="font-weight:700;color:#1a1a1a;">{{ contact.PRENOM }}</span>, </mj-text>
-        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Vous êtes intéressé(e) par les métiers de l'hôtellerie et de la restauration. Plongez dans une expérience unique avec une formation diplômante et qualifiante qui boostera votre avenir professionnel&nbsp;!</mj-text>
-        <mj-text padding="2px 10px" mj-class="T16-400 cT0">Lors de cet événement, vous aurez l'opportunité de : </mj-text>
-        <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Explorer</span> notre campus moderne et <span style="font-weight:700;color:#1a1a1a;">découvrir</span> des infrastructures à la pointe,</mj-text>
-        <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Échanger</span> avec nos enseignants passionnés et notre équipe pédagogique,</mj-text>
-        <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Assister</span> à des présentations captivantes sur nos différents programmes de formation,</mj-text>
-        <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Poser</span> toutes vos questions sur les admissions, le parcours, ou encore la vie étudiante,</mj-text>
-        <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Discuter</span> directement avec nos étudiants pour connaître leur ressenti et leurs expériences.</mj-text>
-        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Ce sera l'occasion parfaite pour donner un véritable coup d'accélérateur à votre carrière. Parce que vos ambitions méritent les meilleures opportunités. Un rendez-vous à ne pas manquer&nbsp;!</mj-text>
+    <mj-section>
+      <mj-column>
         <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Helène Salmon </mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Responsable des études</mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Hôtellerie</mj-text>
