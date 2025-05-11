@@ -1,0 +1,59 @@
+mjml
+    //- Head
+    mj-head
+        mj-title JPO du 26 avril 2025 Ecosup Commerce
+        mj-font(name='Roboto' href='https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap')
+        mj-font(name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css")/
+        mj-raw.
+            <meta charset="UTF-8">
+            <meta name='color-scheme' content='light'/>
+            <meta name='supported-color-schemes' content='light'/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-attributes
+            mj-all(font-family='Roboto, Arial, Helvetica,sans serif')/
+            mj-class(name='T36-900' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='36px' line-height='36px' font-weight='900')/
+            mj-class(name='T24-700' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='24px' line-height='28px' font-weight='700')/
+            mj-class(name='T24-300' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='24px' line-height='28px' font-weight='300')/
+            mj-class(name='T16-700' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='16px' line-height='20px' font-weight='700')/
+            mj-class(name='T16-500' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='16px' line-height='20px' font-weight='500')/
+            mj-class(name='T16-400' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='16px' line-height='20px' font-weight="400")/
+            mj-class(name='T13-700' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='13px' line-height='17px' font-weight="700")/
+            mj-class(name='T13-400' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='13px' line-height='17px' font-weight="400")/
+            mj-class(name='T10-300' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='10px' line-height='12px' font-weight="300")/
+            //- Black colors text
+            mj-class(name="cT1" color="#1a1a1a")/
+            mj-class(name="cT0" color="#4d4d4d")/
+            //- Colors
+            mj-class(name="c0" color="#EC6608")/
+            mj-class(name="bg0" background-color="#EC6608")/
+            mj-class(name="c1" color="#AA3E17")/
+            mj-class(name="bg1" background-color="#AA3E17")/
+        mj-breakpoint(width="480px")
+    //- Body
+    mj-body(background-color='#f2f2f2' width="600px")
+        //- content
+        block content
+        //- bloc header
+        block header
+            include ../includes/commerce/_header
+        //- bloc formations
+        block formations
+            include ../includes/commerce/_formations
+        //-bloc article
+        block article
+            include ../includes/commerce/_article
+        //- bloc information
+        block itineraire
+            include ../includes/commerce/_itineraire
+        //- bloc footer
+        block footer
+            include ../includes/_footer
+        //- bloc reseaux sociaux
+        block resociaux
+            include ../includes/_resociaux
+        //- bloc reglement
+        block reglement
+            include ../includes/_reglement
