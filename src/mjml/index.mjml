@@ -154,31 +154,36 @@
       <mj-section padding="0px">
         <mj-group width="100%">
           <mj-column width="25%">
-            <mj-image align="right" padding="1px" width="300px" src="https://i.ibb.co/xtNt9KbL/04jpo2025article-SM.png" alt="Remise de diplômes"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/xtNt9KbL/04jpo2025article-SM.png" alt="Remise de diplômes"/>
           </mj-column>
           <mj-column width="25%">
-            <mj-image align="right" padding="1px" width="300px" src="https://i.ibb.co/dw1NjsBT/03jpo2025article-SM.png" alt="Mardi gras et Carnaval à Ecosup Campus"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/dw1NjsBT/03jpo2025article-SM.png" alt="Mardi gras et Carnaval à Ecosup Campus"/>
           </mj-column>
           <mj-column width="25%">
-            <mj-image align="left" padding="1px" width="300px" src="https://i.ibb.co/QFr1bWD5/02jpo2025article-SM.png" alt="Saint Nicolas, distribution d'un chocolat et d'une tranche de briohe"></mj-image>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/QFr1bWD5/02jpo2025article-SM.png" alt="Saint Nicolas, distribution d'un chocolat et d'une tranche de brioche"></mj-image>
           </mj-column>
           <mj-column width="25%">
-            <mj-image align="left" padding="1px" width="300px" src="https://i.ibb.co/QFr1bWD5/02jpo2025article-SM.png" alt="Saint Nicolas, distribution d'un chocolat et d'une tranche de briohe"></mj-image>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/QFr1bWD5/02jpo2025article-SM.png" alt="Saint Nicolas, distribution d'un chocolat et d'une tranche de brioche"></mj-image>
           </mj-column>
         </mj-group>
         <mj-group width="75%">
           <mj-column width="33.333333%">
-            <mj-image align="center" padding="1px" width="300px" src="https://i.ibb.co/xSyz12V7/01jpo2025article-SM.png" alt="Mois de novembre sur le cancer de la prostate"></mj-image>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/xSyz12V7/01jpo2025article-SM.png" alt="Mois de novembre sur le cancer de la prostate"></mj-image>
           </mj-column>
           <mj-column width="33.333333%">
-            <mj-image align="center" padding="1px" width="300px" src="https://i.ibb.co/xSyz12V7/01jpo2025article-SM.png" alt="Mois de novembre sur le cancer de la prostate"></mj-image>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/xSyz12V7/01jpo2025article-SM.png" alt="Mois de novembre sur le cancer de la prostate"></mj-image>
           </mj-column>
           <mj-column width="33.333333%">
-            <mj-image align="center" padding="1px" width="300px" src="https://i.ibb.co/xtNt9KbL/04jpo2025article-SM.png" alt="Remise de diplômes"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/xtNt9KbL/04jpo2025article-SM.png" alt="Remise de diplômes"/>
           </mj-column>
         </mj-group>
         <mj-column width="25%">
-          <mj-image align="center" padding="1px" width="300px" src="https://i.ibb.co/xtNt9KbL/04jpo2025article-SM.png" alt="Remise de diplômes"/>
+          <mj-image padding="1px" width="300px" src="https://i.ibb.co/xtNt9KbL/04jpo2025article-SM.png" alt="Remise de diplômes"/>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-column>
+          <mj-text align="center" padding="2px 15px" mj-class="T24-300 cT1">Vie étudiante à Ecosup Campus</mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="0px">
@@ -186,7 +191,7 @@
           <mj-social align="center" icon-size="30px" icon-height="30px" inner-padding="20px" mode="horizontal">
             <mj-social-element src="https://i.ibb.co/99m2HwcM/facebook-Gris.png" href="https://www.facebook.com/EcosupCamp/" target="_blank" alt="icon facebook"></mj-social-element>
             <mj-social-element src="https://i.ibb.co/xqhcdmtf/instagram-Gris.png" href="https://www.instagram.com/ecosup.campus/" target="_blank" alt="icon instagram"></mj-social-element>
-            <mj-social-element src="https://i.ibb.co/9H8VZWmK/linkedin-Gris.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"> </mj-social-element>
+            <mj-social-element src="https://i.ibb.co/9H8VZWmK/linkedin-Gris.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"></mj-social-element>
           </mj-social>
         </mj-column>
       </mj-section>
