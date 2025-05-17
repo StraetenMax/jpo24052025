@@ -74,10 +74,10 @@
             <mj-image padding="1px" width="300px" src="https://i.ibb.co/dw1NjsBT/03jpo2025article-SM.png" alt="Mardi gras et Carnaval à Ecosup Campus"/>
           </mj-column>
           <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/QFr1bWD5/02jpo2025article-SM.png" alt=""/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/WpM5PrGb/jpo02-Tour2025article.png" alt="Collecte de jouets pour les enfants"/>
           </mj-column>
           <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/QFr1bWD5/02jpo2025article-SM.png" alt=""/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/mFtVmHqZ/jpo01-Tour2025article.png" alt="Affiche de la chasse aux oeufs"/>
           </mj-column>
         </mj-group>
         <mj-group width="75%">
@@ -88,7 +88,7 @@
             <mj-image padding="1px" width="300px" src="https://i.ibb.co/tMJ7BXR2/jpo02-Hot2025article.png" alt="Affiche de Movember sur la lutte contre le cancer de la prostate"/>
           </mj-column>
           <mj-column width="33.333333%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/xtNt9KbL/04jpo2025article-SM.png" alt=""/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/Wv5sRKPq/jpo03-Tour2025article.png" alt="Affiche de la collecte des jouets"/>
           </mj-column>
         </mj-group>
         <mj-column width="25%">
