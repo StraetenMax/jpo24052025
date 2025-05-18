@@ -24,14 +24,14 @@
       <mj-class name="T13-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="700"/>
       <mj-class name="T13-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="400"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
-      <mj-button border="2px solid #2DAAE1" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#2DAAE1"></mj-button>
+      <mj-button border="2px solid #2386C8" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#2386c8"></mj-button>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
       <mj-class name="cTW" color="#ffffff"/>
-      <mj-class name="c0" color="#2daae1"/>
-      <mj-class name="bg0" background-color="#2daae1"/>
-      <mj-class name="c1" color="#055063"/>
-      <mj-class name="bg1" background-color="#055063"/>
+      <mj-class name="c0" color="#2386c8"/>
+      <mj-class name="bg0" background-color="#2386c8"/>
+      <mj-class name="c1" color="#114364"/>
+      <mj-class name="bg1" background-color="#114364"/>
     </mj-attributes>
     <mj-breakpoint width="460px"></mj-breakpoint>
   </mj-head>
@@ -43,25 +43,26 @@
     </mj-section>
     <mj-section padding="20px" padding-bottom="0px" background-color="#ffffff">
       <mj-column width="88%">
-        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Notre formation Petite Enfance</mj-text>
+        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Secrétariat médical</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image padding="0" width="224px" src="https://i.ibb.co/HfTwpFDJ/form02-AEPEJpo24052025.png" alt="Formation accompagnante éducatif petite enfance"/>
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/tMw9gWTS/form01-SMJpo24052025.png" alt="formation secrétaire médicale"/>
       </mj-column>
       <mj-column width="70%">   
         <mj-spacer height="20px"></mj-spacer>
         <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#2daae1;">AEPE</span> Accompagnant(e) éducatif petite enfance</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#2386C8;">SM</span> Secrétaire médical(e)</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">12 mois</span>,</mj-text>
+           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">18 mois</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : mise à disposition d'un <span style="font-weight:700;color:#1a1a1a;">ordinateur portable</span>,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button padding-top="15px" target="_blank" href="https://ecosup-sante.fr/accompagnant-petite-enfance">
-           En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/35n26cRp/fleche-AEPE.png" alt="flèche aepe"/></mj-button>
+        <mj-button padding-top="15px" target="_blank" href="https://ecosup-sante.fr/secretaire-medicale-2">
+           En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/TBFd3wcH/flecheSM.png" alt="flèche secrétaire médical(e)"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -71,32 +72,32 @@
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff" direction="rtl">
       <mj-column width="30%">
-        <mj-image padding="0" width="224px" src="https://i.ibb.co/5XNNVS0P/form01-AEPEJpo24052025.png" alt="Formation accompagnant éducatif petite enfance"/>
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/G42jvhFq/form02-SMJpo24052025.png" alt="formation secrétaire médicale"/>
       </mj-column>
       <mj-column width="70%">
         <mj-spacer height="20px"></mj-spacer>
         <mj-text align="left" padding="0 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en initial</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#2daae1;">AEPE</span> Accompagnant(e) éducatif petite enfance</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#2386C8;">SM</span> Secrétaire médical(e)</mj-text>
         <mj-text align="left" padding="0px 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">12 mois</span>,</mj-text>
+           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">8 mois</span>,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation initiale ou continue. Financement possible grâce à la mobilisation du CPF ou autres organismes extérieurs.</mj-text>
-        <mj-button padding-top="15px" target="_blank" href="https://ecosup-sante.fr/accompagnant-petite-enfance">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/35n26cRp/fleche-AEPE.png" alt="flèche aepe"/></mj-button>
+        <mj-button padding-top="15px" target="_blank" href="https://ecosup-sante.fr/secretaire-medicale-2">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/TBFd3wcH/flecheSM.png" alt="flèche secrétaire médical(e)"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#e6e6e6" padding="20px">
       <mj-section padding="0px">
         <mj-group width="100%">
           <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/zhH6pvxx/jpo06-Hot2025article.png" alt="Affiche Mardi gras et Carnaval à Ecosup Campus"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/dw1NjsBT/03jpo2025article-SM.png" alt="Mardi gras et Carnaval à Ecosup Campus"/>
           </mj-column>
           <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/dw1NjsBT/03jpo2025article-SM.png" alt="Etudiants participants à Mardi gras et Carnaval à Ecosup Campus"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/zhH6pvxx/jpo06-Hot2025article.png" alt="Affiche Mardi gras et Carnaval "/>
           </mj-column>
           <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/27GcZvLf/jpo09-Hot2025article.png" alt="Crèpes servies aux étudiants à la chandeleur"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/27GcZvLf/jpo09-Hot2025article.png" alt="Distribution de crèpes aux étudiants pour Mardi gras et Carnaval"/>
           </mj-column>
           <mj-column width="25%">
             <mj-image padding="1px" width="300px" src="https://i.ibb.co/QFr1bWD5/02jpo2025article-SM.png" alt="Saint Nicolas, distribution d'un chocolat et d'une tranche de brioche"/>
@@ -104,13 +105,13 @@
         </mj-group>
         <mj-group width="75%">
           <mj-column width="33.333333%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/xSyz12V7/01jpo2025article-SM.png" alt="Etudiants et intervenants participant à l'opération Movembre sur la lutte contre le cancer de la prostate"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/tMJ7BXR2/jpo02-Hot2025article.png" alt="Affiche Movembre sur l'opération contre le cancer de la prostate"/>
           </mj-column>
           <mj-column width="33.333333%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/tMJ7BXR2/jpo02-Hot2025article.png" alt="Affiche de l'opération Movembre sur la lutte contre le cancer de la prostate"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/xSyz12V7/01jpo2025article-SM.png" alt="Étudiants et intervenants participant à l'opération Movembre sur la lutte contre le cancer de la prostate"/>
           </mj-column>
           <mj-column width="33.333333%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/Z1ML03s3/jpo04-Hot2025article.png" alt="Affiche de l'opération Octobre rose sur la lutte contre le cancer du sein"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/mFtVmHqZ/jpo01-Tour2025article.png" alt="Affiche de la Chasse aux oeufs"/>
           </mj-column>
         </mj-group>
         <mj-column width="25%">
@@ -124,9 +125,9 @@
         </mj-column>
         <mj-column width="100%">
           <mj-social align="center" padding="0 25px" icon-size="30px" icon-height="30px" inner-padding="20px" mode="horizontal">
-            <mj-social-element src="https://i.ibb.co/RTgC74NZ/aepe-Facebook.png" href="https://www.facebook.com/EcosupCamp/" target="_blank" alt="icon facebook"></mj-social-element>
-            <mj-social-element src="https://i.ibb.co/4n8bWB5m/aepe-Instagram.png" href="https://www.instagram.com/ecosup.campus/" target="_blank" alt="icon instagram"></mj-social-element>
-            <mj-social-element src="https://i.ibb.co/gMsdct6w/aepe-Linkedin.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"></mj-social-element>
+            <mj-social-element src="https://i.ibb.co/Zp2HqPwG/sm-Facebook.png" href="https://www.facebook.com/EcosupCamp/" target="_blank" alt="icon facebook"></mj-social-element>
+            <mj-social-element src="https://i.ibb.co/YB0r4j68/sm-Instagram.png" href="https://www.instagram.com/ecosup.campus/" target="_blank" alt="icon instagram"></mj-social-element>
+            <mj-social-element src="https://i.ibb.co/nsrHffNX/sm-Linkedin.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"></mj-social-element>
           </mj-social>
         </mj-column>
       </mj-section>
