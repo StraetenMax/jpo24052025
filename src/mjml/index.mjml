@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>JPO du 24 mai 2025 Ecosup Immobilier</mj-title>
+    <mj-title>JPO du 24 mai 2025 Ecosup Tourisme</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap"></mj-font>
     <mj-font name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
     <mj-raw>
@@ -24,14 +24,14 @@
       <mj-class name="T13-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="700"/>
       <mj-class name="T13-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="400"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
-      <mj-button border="2px solid #EC6608" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#EC6608"></mj-button>
+      <mj-button border="2px solid #1F3C90" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#1F3C90"></mj-button>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
-      <mj-class name="cTW" color="#ffffff"></mj-class>
-      <mj-class name="c0" color="#EC6608"/>
-      <mj-class name="bg0" background-color="#EC6608"/>
-      <mj-class name="c1" color="#AA3E17"/>
-      <mj-class name="bg1" background-color="#AA3E17"/>
+      <mj-class name="cTW" color="#ffffff"/>
+      <mj-class name="c0" color="#1F3C90"/>
+      <mj-class name="bg0" background-color="#1F3C90"/>
+      <mj-class name="c1" color="#20274F"/>
+      <mj-class name="bg1" background-color="#20274F"/>
     </mj-attributes>
     <mj-breakpoint width="460px"></mj-breakpoint>
   </mj-head>
@@ -43,24 +43,24 @@
     </mj-section>
     <mj-section mj-class="bg0" padding="10px 20px">
       <mj-column>
-        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/HfGm43kc/ECOSUPimmo-Blanc.png" alt="logo Ecosup Immobilier"/>
+        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/JndJbtQ/Logo-Tourisme-Blanc.png" alt="logo Ecosup Tourisme"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ecebf3" padding="10px 20px">
       <mj-column>
-        <mj-image padding="0" width="50px" src="https://i.ibb.co/G09QhCx/logo-BNIjpo12142024.png" alt="logo BNI"/>
+        <mj-image padding="0" width="150px" src="https://i.ibb.co/Xx3GprBW/air-Training-CCA.png" alt="logo Air Training academy"/> 
       </mj-column>
     </mj-section>
     <mj-section background-color="#ecebf3" padding="0">
       <mj-column>
-        <mj-image padding="0" width="600px" src="https://i.ibb.co/xw9xY2C/jpo24052025-Immo01.png" alt="ville de Paris la nuit"/>
+        <mj-image padding="0" width="600px" src="https://i.ibb.co/RkWjYSvz/jpo24052025-T01.png" alt="Embarquement sur l'aeroport d'un pays"/>
         <mj-image padding="0" width="600px" src="https://i.ibb.co/cXtXJk4S/jpo24052025-01.png" alt="affiche de la jpo du samedi 24 mai 2025"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px"> 
       <mj-column width="88%">
-        <mj-text padding="5px 10px" mj-class="T36-900 c0">Votre carrière dans l'immobilier commence ici, à nos côtés&nbsp;! </mj-text>
-        <mj-text padding="5px 10px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">{{ contact.PRENOM }}</span>, les métiers de l'immobilier vous passionnent&nbsp;? Faites de votre ambition une réalité avec une formation diplômante qui propulse votre avenir&nbsp;! </mj-text>
+        <mj-text padding="5px 10px" mj-class="T36-900 c0">Votre carrière dans le tourisme commence ici, à nos côtés&nbsp;! </mj-text>
+        <mj-text padding="5px 10px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">{{ contact.PRENOM }}</span>, les métiers du tourisme vous passionnent&nbsp;? Faites de votre ambition une réalité avec une formation diplômante qui propulse votre avenir&nbsp;! </mj-text>
         <mj-text padding="5px 10px" mj-class="T16-400 cT0">Rejoignez-nous ce <span style="font-weight:700;color:#1a1a1a;">samedi 24 mai de 9h30 à 13h</span> pour une immersion unique&nbsp;:</mj-text>
         <mj-text padding="0px 10px" mj-class="T16-400 cT0"><span style="font-size:20px;line-height:20px;">&#x1F680;</span> <span style="font-weight:700;color:#1a1a1a;">Découvrez</span> un campus moderne, <span style="font-size:20px;line-height:20px;">&#x1F4AC;</span> <span style="font-weight:700;color:#1a1a1a;">Échangez</span> avec des experts et des étudiants inspirants,
           <span style="font-size:20px;line-height:20px;">&#x1F4E2;</span> <span style="font-weight:700;color:#1a1a1a;">Assistez</span> à des présentations motivantes sur nos programmes,
@@ -70,58 +70,107 @@
         <mj-text padding="5px 10px" padding-bottom="20px" mj-class="T16-400 cT0">Ne manquez pas cette opportunité qui façonnera votre avenir&nbsp;!</mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Clément Duhamel</mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Responsable pédagogique</mj-text>
-        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Immobilier</mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Tourisme</mj-text>
         <mj-button padding="0" padding-top="20px" width="280px" mj-class="T16-700 bg0 cTW"><span style="text-transform:uppercase;">Journée Portes Ouvertes</span> samedi 24 mai de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" padding-bottom="0px" background-color="#ffffff">
       <mj-column width="88%">
-        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Notre formation en immobilier</mj-text>
+        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Tourisme de Bac+2 à Bac+5</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image padding="0" width="224px" src="https://i.ibb.co/Vpcs18Lp/form01-Immo-Jpo24052025.png" alt="Formation Professions immobilières"/>
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/pvsP7GzH/form02-Tourisme-Jpo24052025.png" alt="Formation BTS tourisme"/>
       </mj-column>
       <mj-column width="70%">   
         <mj-spacer height="20px"></mj-spacer>
         <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#C21718;">BTS</span> Professions immobilières</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#1F3C90;">BTS</span> Tourisme</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">préparation au CCA</span>, Cabin Crew Attestation,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button padding-top="15px" target="_blank" href="https://ecosup-commerce.fr/bts-professions-immobilieres/">
-           En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/bghZ8XT2/fleche-Imm-Com.png" alt="flèche immobilier"/></mj-button>
+        <mj-button padding-top="15px" target="_blank" href="https://ecosup-tourisme.fr/bts-tourisme/">
+           En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/C5FdvWyv/fleche-Tourisme.png" alt="flèche Tourisme"/></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="10px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#ffffff" direction="rtl">
+      <mj-column width="30%">
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/0pyq7RvD/form01-Tourisme-Jpo24052025.png" alt="Formation Bachelor responsable commercial en tourisme"/>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="left" padding="0 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#1F3C90;">Bachelor</span> Responsable commercial en tourisme</mj-text>
+        <mj-text align="left" padding="0px 15px" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac+2,</mj-text>
+        <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">1 an</span>,</mj-text>
+        <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Travel Week</span>, semaine immersive en mobilité internationale,</mj-text>
+        <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+        <mj-button padding-top="15px" target="_blank" href="https://ecosup-tourisme.fr/bachelor-responsable-commercial-en-tourisme">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/C5FdvWyv/fleche-Tourisme.png" alt="flèche Tourisme"/></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="10px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#ffffff">
+      <mj-column width="30%">
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/WvHsZYFY/form03-Tourisme-Jpo24052025.png" alt="Formation Mastère management stratégique des entreprises du tourisme"/>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#1F3C90;">Mastère</span> Management stratégique des entreprises du tourisme</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac+3,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Double certification internationale</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+        <mj-button padding-top="15px" target="_blank" href="https://ecosup-tourisme.fr/mastere-management-strategique-entreprise-tourisme/">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/C5FdvWyv/fleche-Tourisme.png" alt="flèche Tourisme"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#e6e6e6" padding="20px">
       <mj-section padding="0px">
         <mj-group width="100%">
           <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/zhH6pvxx/jpo06-Hot2025article.png" alt="Affiche de l'opération Mardi gras et Carnaval à Ecosup Campus"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/dw1NjsBT/03jpo2025article-SM.png" alt="Étudiantes particpant au Mardi gras et Carnaval à Ecosup Campus"/>
           </mj-column>
           <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/dw1NjsBT/03jpo2025article-SM.png" alt="Mardi gras et Carnaval à Ecosup Campus"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/zhH6pvxx/jpo06-Hot2025article.png" alt="Affiche Mardi gras et Carnaval"/>
           </mj-column>
           <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/WpM5PrGb/jpo02-Tour2025article.png" alt="Collecte de jouets pour les enfants"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/27GcZvLf/jpo09-Hot2025article.png" alt="Distribution de crèpes aux étudiants pour le goûter de Mardi gras"/>
           </mj-column>
           <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/mFtVmHqZ/jpo01-Tour2025article.png" alt="Affiche de la chasse aux oeufs"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/QFr1bWD5/02jpo2025article-SM.png" alt="Saint Nicolas, distribution d'un chocolat et d'une tranche de brioche"/>
           </mj-column>
         </mj-group>
         <mj-group width="75%">
           <mj-column width="33.333333%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/xSyz12V7/01jpo2025article-SM.png" alt="Etudiants et Intervenants participent à l'opération Movember sur la lutte contre le cancer de la prostate"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/tMJ7BXR2/jpo02-Hot2025article.png" alt="Affiche de l'opération Movembre sur la lutte contre le cancer de la prostate"/>
           </mj-column>
           <mj-column width="33.333333%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/tMJ7BXR2/jpo02-Hot2025article.png" alt="Affiche de Movember sur la lutte contre le cancer de la prostate"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/xSyz12V7/01jpo2025article-SM.png" alt="Étudiants et intervenants participant à l'opération Movembre sur la lutte contre le cancer de la prostate"/>
           </mj-column>
           <mj-column width="33.333333%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/Wv5sRKPq/jpo03-Tour2025article.png" alt="Affiche de la collecte des jouets"/>
+            <mj-image padding="1px" width="300px" src="https://i.ibb.co/Z1ML03s3/jpo04-Hot2025article.png" alt="Affiche Octobre rose"/>
           </mj-column>
         </mj-group>
         <mj-column width="25%">
@@ -135,9 +184,9 @@
         </mj-column>
         <mj-column width="100%">
           <mj-social align="center" padding="0 25px" icon-size="30px" icon-height="30px" inner-padding="20px" mode="horizontal">
-            <mj-social-element src="https://i.ibb.co/21x26WkF/commerce-Facebook.png" href="https://www.facebook.com/EcosupCamp/" target="_blank" alt="icon facebook"></mj-social-element>
-            <mj-social-element src="https://i.ibb.co/8Dx3DN1d/commerce-Instagram.png" href="https://www.instagram.com/ecosup.campus/" target="_blank" alt="icon instagram"></mj-social-element>
-            <mj-social-element src="https://i.ibb.co/pjkBg8Cp/commerce-Linkedin.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"></mj-social-element>
+            <mj-social-element src="https://i.ibb.co/67gy7yJg/tourisme-Facebook.png" href="https://www.facebook.com/EcosupCamp/" target="_blank" alt="icon facebook"></mj-social-element>
+            <mj-social-element src="https://i.ibb.co/Q318ZFdg/tourisme-Instagram.png" href="https://www.instagram.com/ecosup.campus/" target="_blank" alt="icon instagram"></mj-social-element>
+            <mj-social-element src="https://i.ibb.co/s7gZxB6/tourisme-Linkedin.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"></mj-social-element>
           </mj-social>
         </mj-column>
       </mj-section>
@@ -165,7 +214,7 @@
     </mj-wrapper>
     <mj-section mj-class="bg1" padding="0 20px">
       <mj-column>
-        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-commerce.fr/bts-professions-immobilieres/" target="_blank">www.ecosup-immobilier.fr</a></mj-text>
+        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-tourisme.fr" target="_blank">www.ecosup-tourisme.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#1a1a1a" padding="20px 32px">
